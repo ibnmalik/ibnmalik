@@ -1,6 +1,6 @@
 # Contributing to Ibnmalk library
 
-Hi Hi! Thanks for your interest in contributing to [Ibnmalk](http://www.ibnmalk.araby360.org/).
+Hi there! Thanks for your interest in contributing to [Ibnmalk](http://www.ibnmalk.araby360.org/).
 In this document we'll try to summarize everything that you need to know to
 do a good job.
 
