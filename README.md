@@ -20,7 +20,7 @@ Do you want to contribute with Ibnmalik development? Great! Please read more det
 
 - Thanks to [Pyarabic library](https://github.com/linuxscout/pyarabic) and [Alfanous project](https://github.com/Alfanous-team/alfanous) for the support.
 
-- Thanks to [NLTK](http://www.nltk.org/) and [CLTK](http://cltk.org/) NLP libraries for informing library's directory structure.
+- Thanks to [NLTK](http://www.nltk.org/) and [CLTK](http://cltk.org/) NLP libraries for informing library's structure.
 
 ## Copyright
 
@@ -28,4 +28,4 @@ Copyright (C) 2017 [Ibnmalik](/).
 
 For license information, see [LICENSE](https://github.com/ibnmalik/ibnmalik/blob/develop/LICENSE).
 
-[AUTHORS](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk.
+[AUTHORS](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk
